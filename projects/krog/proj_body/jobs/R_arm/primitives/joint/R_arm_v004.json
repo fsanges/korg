@@ -1,0 +1,292 @@
+{
+    "root_joints": [
+        {
+            "object_name": "R_arm_01_jnt", 
+            "object_parent": "R_arm_jnt_grp", 
+            "object_attrs": {}, 
+            "translate": [
+                -2.3444, 
+                19.1216, 
+                -0.964061
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.5, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                -167.2385903831917, 
+                -8.52701970366309, 
+                47.73383452342935
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }
+    ], 
+    "joint_objs": [
+        {
+            "object_name": "R_arm_01_jnt", 
+            "object_parent": "R_arm_jnt_grp", 
+            "object_attrs": {}, 
+            "translate": [
+                -2.3444, 
+                19.1216, 
+                -0.964061
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.5, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                -167.2385903831917, 
+                -8.52701970366309, 
+                47.73383452342935
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "R_hand_01_jend", 
+            "object_parent": "R_hand_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                -1.5234148508556435, 
+                -1.4813848776995542e-05, 
+                3.0049448467295292e-06
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.5, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "R_hand_01_jnt", 
+            "object_parent": "R_elbow_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                -3.146538880000481, 
+                4.6456282740692245e-05, 
+                5.302201322887612e-06
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.5, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                11.119999999999951, 
+                -1.8188797084619486e-14, 
+                -7.859999999999953
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "R_elbow_01_jnt", 
+            "object_parent": "R_arm_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                -4.021727208520561, 
+                6.974708661289242e-06, 
+                -7.602714553023304e-06
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.5, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                -41.90545073566705, 
+                0.0
+            ], 
+            "joint_orient": [
+                -2.3336818830685164e-15, 
+                -20.15832073588876, 
+                1.3128872129541963e-14
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }
+    ], 
+    "skeleton_folder": ""
+}
