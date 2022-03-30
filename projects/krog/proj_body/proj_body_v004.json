@@ -1080,9 +1080,9 @@
                                     "object_parent": "L_hand_01_jnt", 
                                     "object_attrs": {}, 
                                     "translate": [
-                                        1.5234385111188038, 
-                                        -1.7763568394002505e-14, 
-                                        9.769962616701378e-15
+                                        1.523438511118802, 
+                                        -1.5987211554602254e-14, 
+                                        1.021405182655144e-14
                                     ], 
                                     "rotate": [
                                         0.0, 
@@ -1137,9 +1137,9 @@
                                     "object_parent": "L_elbow_01_jnt", 
                                     "object_attrs": {}, 
                                     "translate": [
-                                        3.1464805404533074, 
-                                        1.7763568394002505e-15, 
-                                        -3.552713678800501e-15
+                                        3.1464805404532994, 
+                                        -1.7763568394002505e-15, 
+                                        -2.220446049250313e-15
                                     ], 
                                     "rotate": [
                                         0.0, 
@@ -1181,9 +1181,9 @@
                                         0.0
                                     ], 
                                     "joint_orient": [
-                                        11.120000000000001, 
+                                        0.0, 
                                         -0.0, 
-                                        -7.860000000000001
+                                        0.0
                                     ], 
                                     "segment_scale_compensate": true, 
                                     "enable_overrides": false, 
@@ -1195,8 +1195,8 @@
                                     "object_attrs": {}, 
                                     "translate": [
                                         4.02171743092231, 
-                                        -7.105427357601002e-15, 
-                                        4.440892098500626e-15
+                                        -5.329070518200751e-15, 
+                                        2.6645352591003757e-15
                                     ], 
                                     "rotate": [
                                         0.0, 
@@ -1449,7 +1449,7 @@
                                     ], 
                                     "joint_orient": [
                                         -167.2385903831917, 
-                                        -8.527019703663088, 
+                                        -8.52701970366309, 
                                         47.73383452342935
                                     ], 
                                     "segment_scale_compensate": true, 
@@ -1508,7 +1508,7 @@
                                     ], 
                                     "joint_orient": [
                                         -167.2385903831917, 
-                                        -8.527019703663088, 
+                                        -8.52701970366309, 
                                         47.73383452342935
                                     ], 
                                     "segment_scale_compensate": true, 
@@ -1520,9 +1520,9 @@
                                     "object_parent": "R_hand_01_jnt", 
                                     "object_attrs": {}, 
                                     "translate": [
-                                        -1.5234148508556435, 
-                                        -1.4813848776995542e-05, 
-                                        3.0049448467295292e-06
+                                        -1.523427111246356, 
+                                        -4.233102609774164e-06, 
+                                        -1.2884104290122878e-06
                                     ], 
                                     "rotate": [
                                         0.0, 
@@ -1621,9 +1621,9 @@
                                         0.0
                                     ], 
                                     "joint_orient": [
-                                        11.119999999999951, 
-                                        -1.8188797084619486e-14, 
-                                        -7.859999999999953
+                                        0.0, 
+                                        -0.0, 
+                                        0.0
                                     ], 
                                     "segment_scale_compensate": true, 
                                     "enable_overrides": false, 
@@ -9231,7 +9231,7 @@
                     "renamer_type": "Renamer Types", 
                     "layout_command_str": "", 
                     "build_command_str": "", 
-                    "cleanup_command_str": "from maya import mel \n\nmel.eval(\"\"\"\n\nsetAttr \"chest_ctrl.strip_01_terc\" 0;\nsetAttr \"chest_ctrl.strip_02_sec\" 0;\nsetAttr \"chest_ctrl.strip_01_terc\" 0;\nsetAttr \"chest_ctrl.strip_01_pri\" 0;\nsetAttr \"chest_ctrl.strip_02_terc\" 0;\nsetAttr \"chest_ctrl.strip_01_sec\" 0;\nsetAttr \"chest_ctrl.strip_02_pri\" 0;\n\n//mid spine control\nsetAttr \"spine_fk_01_ctrl.sec_ctrls\" 1;\n\n\"\"\")\n\n\n\n# rename alias attrs \n\n\nfrom maya import cmds as mc\n\nnode = \"L_foot_roll_ctrl\"\nattr = \"translateZ\"\nnew_name_attr = \"FootRoll\"\nmc.aliasAttr(new_name_attr, node + \".\" + attr)\n\nattr = \"translateX\"\nnew_name_attr = \"FootSide\"\nmc.aliasAttr(new_name_attr, node + \".\" + attr)\n\n\nnode = \"R_foot_roll_ctrl\"\nattr = \"translateZ\"\nnew_name_attr = \"FootRoll\"\nmc.aliasAttr(new_name_attr, node + \".\" + attr)\n\nattr = \"translateX\"\nnew_name_attr = \"FootSide\"\nmc.aliasAttr(new_name_attr, node + \".\" + attr)\n\n\n\n# Hide joints\nfrom maya import cmds as mc\n\njoints = mc.ls(type=\"joint\")\ndrawStyle = 2\nfor j in joints:\n    mc.setAttr( j + '.drawStyle', drawStyle )    \n    "
+                    "cleanup_command_str": "from maya import mel \n\nmel.eval(\"\"\"\n\nsetAttr \"chest_ctrl.strip_01_terc\" 0;\nsetAttr \"chest_ctrl.strip_02_sec\" 0;\nsetAttr \"chest_ctrl.strip_01_terc\" 0;\nsetAttr \"chest_ctrl.strip_01_pri\" 0;\nsetAttr \"chest_ctrl.strip_02_terc\" 0;\nsetAttr \"chest_ctrl.strip_01_sec\" 0;\nsetAttr \"chest_ctrl.strip_02_pri\" 0;\n\n//mid spine control\nsetAttr \"spine_fk_01_ctrl.sec_ctrls\" 1;\n\n\n// Set arms to FK\nsetAttr \"R_arm_switch_ctrl.IK_FK\" 0;\nsetAttr \"L_arm_switch_ctrl.IK_FK\" 0;\n\"\"\")\n\n\n\n# rename alias attrs \n\n\nfrom maya import cmds as mc\n\nnode = \"L_foot_roll_ctrl\"\nattr = \"translateZ\"\nnew_name_attr = \"FootRoll\"\nmc.aliasAttr(new_name_attr, node + \".\" + attr)\n\nattr = \"translateX\"\nnew_name_attr = \"FootSide\"\nmc.aliasAttr(new_name_attr, node + \".\" + attr)\n\n\nnode = \"R_foot_roll_ctrl\"\nattr = \"translateZ\"\nnew_name_attr = \"FootRoll\"\nmc.aliasAttr(new_name_attr, node + \".\" + attr)\n\nattr = \"translateX\"\nnew_name_attr = \"FootSide\"\nmc.aliasAttr(new_name_attr, node + \".\" + attr)\n\n\n\n# Hide joints\nfrom maya import cmds as mc\n\njoints = mc.ls(type=\"joint\")\ndrawStyle = 2\nfor j in joints:\n    mc.setAttr( j + '.drawStyle', drawStyle )    \n    "
                 }
             ], 
             "layout_check": true, 
@@ -10400,9 +10400,9 @@
                             "object_parent": "L_hand_01_jnt", 
                             "object_attrs": {}, 
                             "translate": [
-                                1.5234385111188038, 
-                                -1.7763568394002505e-14, 
-                                9.769962616701378e-15
+                                1.523438511118802, 
+                                -1.5987211554602254e-14, 
+                                1.021405182655144e-14
                             ], 
                             "rotate": [
                                 0.0, 
@@ -10457,9 +10457,9 @@
                             "object_parent": "L_elbow_01_jnt", 
                             "object_attrs": {}, 
                             "translate": [
-                                3.1464805404533074, 
-                                1.7763568394002505e-15, 
-                                -3.552713678800501e-15
+                                3.1464805404532994, 
+                                -1.7763568394002505e-15, 
+                                -2.220446049250313e-15
                             ], 
                             "rotate": [
                                 0.0, 
@@ -10501,9 +10501,9 @@
                                 0.0
                             ], 
                             "joint_orient": [
-                                11.120000000000001, 
+                                0.0, 
                                 -0.0, 
-                                -7.860000000000001
+                                0.0
                             ], 
                             "segment_scale_compensate": true, 
                             "enable_overrides": false, 
@@ -10515,8 +10515,8 @@
                             "object_attrs": {}, 
                             "translate": [
                                 4.02171743092231, 
-                                -7.105427357601002e-15, 
-                                4.440892098500626e-15
+                                -5.329070518200751e-15, 
+                                2.6645352591003757e-15
                             ], 
                             "rotate": [
                                 0.0, 
@@ -10833,7 +10833,7 @@
                             ], 
                             "joint_orient": [
                                 -167.2385903831917, 
-                                -8.527019703663088, 
+                                -8.52701970366309, 
                                 47.73383452342935
                             ], 
                             "segment_scale_compensate": true, 
@@ -10892,7 +10892,7 @@
                             ], 
                             "joint_orient": [
                                 -167.2385903831917, 
-                                -8.527019703663088, 
+                                -8.52701970366309, 
                                 47.73383452342935
                             ], 
                             "segment_scale_compensate": true, 
@@ -10904,9 +10904,9 @@
                             "object_parent": "R_hand_01_jnt", 
                             "object_attrs": {}, 
                             "translate": [
-                                -1.5234148508556435, 
-                                -1.4813848776995542e-05, 
-                                3.0049448467295292e-06
+                                -1.523427111246356, 
+                                -4.233102609774164e-06, 
+                                -1.2884104290122878e-06
                             ], 
                             "rotate": [
                                 0.0, 
@@ -11005,9 +11005,9 @@
                                 0.0
                             ], 
                             "joint_orient": [
-                                11.119999999999951, 
-                                -1.8188797084619486e-14, 
-                                -7.859999999999953
+                                0.0, 
+                                -0.0, 
+                                0.0
                             ], 
                             "segment_scale_compensate": true, 
                             "enable_overrides": false, 
@@ -18663,8 +18663,8 @@
             }
         ], 
         "view_center": {
-            "y": 1.0, 
-            "x": 1.0
+            "y": 49.0, 
+            "x": 120.0
         }
     }, 
     "positions": [
