@@ -10,7 +10,7 @@
                         {
                             "job_name": "import_facial", 
                             "job_type": "import_project", 
-                            "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/import_facial", 
+                            "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\import_facial", 
                             "job_order": 0, 
                             "enabled_check": false, 
                             "layout_check": true, 
@@ -34,7 +34,7 @@
                         {
                             "job_name": "import_body", 
                             "job_type": "import_geo", 
-                            "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/import_body", 
+                            "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\import_body", 
                             "job_order": 0, 
                             "enabled_check": true, 
                             "layout_check": true, 
@@ -61,7 +61,7 @@
                         {
                             "job_name": "import_costumes", 
                             "job_type": "import_geo", 
-                            "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/import_costumes", 
+                            "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\import_costumes", 
                             "job_order": 0, 
                             "enabled_check": true, 
                             "layout_check": true, 
@@ -98,7 +98,7 @@
                         {
                             "job_name": "import_low_body", 
                             "job_type": "import_geo", 
-                            "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/import_low_body", 
+                            "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\import_low_body", 
                             "job_order": 0, 
                             "enabled_check": true, 
                             "layout_check": true, 
@@ -132,7 +132,7 @@
                 {
                     "job_name": "root", 
                     "job_type": "root", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/root", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\root", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -161,7 +161,7 @@
                 {
                     "job_name": "coghips", 
                     "job_type": "coghips2", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/coghips", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\coghips", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -418,7 +418,7 @@
                 {
                     "job_name": "spine", 
                     "job_type": "spine", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/spine", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\spine", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -899,7 +899,7 @@
                 {
                     "job_name": "L_arm", 
                     "job_type": "limb2", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/L_arm", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\L_arm", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -1339,7 +1339,7 @@
                 {
                     "job_name": "R_arm", 
                     "job_type": "limb2", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/R_arm", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\R_arm", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -1779,7 +1779,7 @@
                 {
                     "job_name": "L_leg", 
                     "job_type": "limb2", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/L_leg", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\L_leg", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -2447,7 +2447,7 @@
                 {
                     "job_name": "R_leg", 
                     "job_type": "limb2", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/R_leg", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\R_leg", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -3115,7 +3115,7 @@
                 {
                     "job_name": "L_hand", 
                     "job_type": "hand", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/L_hand", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\L_hand", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -4917,7 +4917,7 @@
                 {
                     "job_name": "R_hand", 
                     "job_type": "hand", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/R_hand", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\R_hand", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -6719,7 +6719,7 @@
                 {
                     "job_name": "L_shoulder", 
                     "job_type": "shoulder", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/L_shoulder", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\L_shoulder", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -7035,7 +7035,7 @@
                 {
                     "job_name": "R_shoulder", 
                     "job_type": "shoulder", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/R_shoulder", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\R_shoulder", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -7351,7 +7351,7 @@
                 {
                     "job_name": "constraint", 
                     "job_type": "constraint", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/constraint", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\constraint", 
                     "job_order": 0, 
                     "enabled_check": false, 
                     "layout_check": true, 
@@ -7381,7 +7381,7 @@
                 {
                     "job_name": "head", 
                     "job_type": "head", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/head", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\head", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -7708,7 +7708,7 @@
                 {
                     "job_name": "neck", 
                     "job_type": "neck", 
-                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/neck", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\neck", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -8077,7 +8077,7 @@
                         {
                             "job_name": "strip_01", 
                             "job_type": "ribbon", 
-                            "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/strip_01", 
+                            "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\strip_01", 
                             "job_order": 0, 
                             "enabled_check": true, 
                             "layout_check": true, 
@@ -8336,7 +8336,7 @@
                         {
                             "job_name": "strip_02", 
                             "job_type": "ribbon", 
-                            "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/strip_02", 
+                            "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\strip_02", 
                             "job_order": 0, 
                             "enabled_check": true, 
                             "layout_check": true, 
@@ -8595,7 +8595,7 @@
                         {
                             "job_name": "strips_skc", 
                             "job_type": "skin_cluster", 
-                            "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/strips_skc", 
+                            "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\strips_skc", 
                             "job_order": 0, 
                             "enabled_check": true, 
                             "layout_check": true, 
@@ -8634,7 +8634,7 @@
                         {
                             "job_name": "visibility", 
                             "job_type": "visibility", 
-                            "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/visibility", 
+                            "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\visibility", 
                             "job_order": 0, 
                             "enabled_check": true, 
                             "layout_check": true, 
@@ -8691,7 +8691,7 @@
                         {
                             "job_name": "body_skin", 
                             "job_type": "skin_cluster", 
-                            "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/body_skin", 
+                            "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\body_skin", 
                             "job_order": 0, 
                             "enabled_check": true, 
                             "layout_check": true, 
@@ -8870,7 +8870,7 @@
                         {
                             "job_name": "weighted_constraint", 
                             "job_type": "weighted_constraint", 
-                            "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/weighted_constraint", 
+                            "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\weighted_constraint", 
                             "job_order": 0, 
                             "enabled_check": true, 
                             "layout_check": true, 
@@ -8911,7 +8911,7 @@
                         {
                             "job_name": "body_skin(0)", 
                             "job_type": "skin_cluster", 
-                            "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/body_skin(0)", 
+                            "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\body_skin(0)", 
                             "job_order": 0, 
                             "enabled_check": true, 
                             "layout_check": true, 
@@ -9090,7 +9090,7 @@
                         {
                             "job_name": "weighted_constraint(0)", 
                             "job_type": "weighted_constraint", 
-                            "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_body/jobs/weighted_constraint(0)", 
+                            "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\weighted_constraint(0)", 
                             "job_order": 0, 
                             "enabled_check": false, 
                             "layout_check": true, 
@@ -9126,6 +9126,38 @@
                     "cleanup_check": true, 
                     "enabled_check": true, 
                     "is_expanded": true
+                }, 
+                {
+                    "job_name": "head_space_switch", 
+                    "job_type": "space_switch", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_body\\jobs\\head_space_switch", 
+                    "job_order": 0, 
+                    "enabled_check": true, 
+                    "layout_check": true, 
+                    "build_check": true, 
+                    "cleanup_check": true, 
+                    "primitives": {
+                        "skeleton": null, 
+                        "ctrl_crvs": null, 
+                        "surfaces": null
+                    }, 
+                    "prefix_type": "lower", 
+                    "suffix_type": "lower", 
+                    "job_prefix": "space_switch", 
+                    "recorded_attrs": [], 
+                    "renamer_type": "Renamer Types", 
+                    "switch_ctrl": "head_ctrl", 
+                    "driven": "head_ct_offset", 
+                    "driver_list": [
+                        "head_hook_in", 
+                        "scale_root_loc"
+                    ], 
+                    "enum_attr_list": [
+                        "neck", 
+                        "world"
+                    ], 
+                    "only_orient": true, 
+                    "mirror": false
                 }
             ], 
             "layout_check": true, 
@@ -9175,18 +9207,18 @@
         }
     }, 
     "scene": {
-        "id": 140335982407952, 
+        "id": 1696201395448, 
         "scene_width": 64000, 
         "scene_height": 64000, 
         "nodes": [
             {
-                "id": 140335298377744, 
+                "id": 1696051725648, 
                 "node_title": "import_facial", 
                 "pos_x": -171.90268330062685, 
                 "pos_y": -283.14295933923654, 
                 "inputs": [
                     {
-                        "id": 140335298159504, 
+                        "id": 1698640925808, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -9197,13 +9229,13 @@
                 "content": {}
             }, 
             {
-                "id": 140335298158928, 
+                "id": 1698640925752, 
                 "node_title": "import_body", 
                 "pos_x": -171.27380918485886, 
                 "pos_y": -376.61613605897685, 
                 "inputs": [
                     {
-                        "id": 140335298159632, 
+                        "id": 1698640925920, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -9214,13 +9246,13 @@
                 "content": {}
             }, 
             {
-                "id": 140335298159568, 
+                "id": 1698640925864, 
                 "node_title": "import_costumes", 
                 "pos_x": -573.3333333333334, 
                 "pos_y": -567.5, 
                 "inputs": [
                     {
-                        "id": 140335298159760, 
+                        "id": 1698640926032, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -9231,13 +9263,13 @@
                 "content": {}
             }, 
             {
-                "id": 140335298159696, 
+                "id": 1698640925976, 
                 "node_title": "import_low_body", 
                 "pos_x": -573.3333333333334, 
                 "pos_y": -567.5, 
                 "inputs": [
                     {
-                        "id": 140335298159888, 
+                        "id": 1698640926144, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -9248,14 +9280,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335298159824, 
+                "id": 1698640926088, 
                 "node_title": "root", 
                 "pos_x": 10.676362450584058, 
                 "pos_y": -376.53023787725226, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335298160016, 
+                        "id": 1698640926256, 
                         "index": 0, 
                         "multi_edges": true, 
                         "position": 3, 
@@ -9265,20 +9297,20 @@
                 "content": {}
             }, 
             {
-                "id": 140335298159952, 
+                "id": 1698640926200, 
                 "node_title": "coghips", 
                 "pos_x": -114.40547821535165, 
                 "pos_y": 501.2490128514638, 
                 "inputs": [
                     {
-                        "id": 140335298160144, 
+                        "id": 1698640926368, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335298160208, 
+                        "id": 1698640926424, 
                         "index": 1, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -9287,14 +9319,14 @@
                 ], 
                 "outputs": [
                     {
-                        "id": 140335298160272, 
+                        "id": 1698640926480, 
                         "index": 0, 
                         "multi_edges": true, 
                         "position": 3, 
                         "socket_type": 1
                     }, 
                     {
-                        "id": 140335298160336, 
+                        "id": 1698640926536, 
                         "index": 1, 
                         "multi_edges": true, 
                         "position": 3, 
@@ -9304,14 +9336,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335298160400, 
+                "id": 1698640926592, 
                 "node_title": "coghips_jnt", 
                 "pos_x": -178.84303379367185, 
                 "pos_y": 365.23293641000777, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335298160464, 
+                        "id": 1698640926648, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -9557,27 +9589,27 @@
                 }
             }, 
             {
-                "id": 140335298160080, 
+                "id": 1698640926312, 
                 "node_title": "spine", 
                 "pos_x": -365.26943648682527, 
                 "pos_y": 459.8809742225484, 
                 "inputs": [
                     {
-                        "id": 140335298160720, 
+                        "id": 1698640926872, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335298160784, 
+                        "id": 1698640926928, 
                         "index": 1, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 5
                     }, 
                     {
-                        "id": 140335298160848, 
+                        "id": 1698640926984, 
                         "index": 2, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -9586,7 +9618,7 @@
                 ], 
                 "outputs": [
                     {
-                        "id": 140335298160912, 
+                        "id": 1698640927040, 
                         "index": 0, 
                         "multi_edges": true, 
                         "position": 3, 
@@ -9596,14 +9628,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335298160976, 
+                "id": 1698640927096, 
                 "node_title": "spine_jnt", 
                 "pos_x": -418.71664696501097, 
                 "pos_y": -28.828639506715007, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335298161040, 
+                        "id": 1698640927152, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -9906,14 +9938,14 @@
                 }
             }, 
             {
-                "id": 140335298161168, 
+                "id": 1698640927264, 
                 "node_title": "spine_srf", 
                 "pos_x": -418.71664696501097, 
                 "pos_y": 41.17136049328498, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335298161296, 
+                        "id": 1698640927376, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -10086,41 +10118,41 @@
                 }
             }, 
             {
-                "id": 140335298160592, 
+                "id": 1698640926760, 
                 "node_title": "L_arm", 
                 "pos_x": 703.2975356351955, 
                 "pos_y": -161.85530776076493, 
                 "inputs": [
                     {
-                        "id": 140335298161488, 
+                        "id": 1698640927544, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335298161552, 
+                        "id": 1698640927600, 
                         "index": 1, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335298161616, 
+                        "id": 1698640927656, 
                         "index": 2, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335298161680, 
+                        "id": 1698640927712, 
                         "index": 3, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 5
                     }, 
                     {
-                        "id": 140335298161744, 
+                        "id": 1698640927768, 
                         "index": 4, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -10129,14 +10161,14 @@
                 ], 
                 "outputs": [
                     {
-                        "id": 140335298161808, 
+                        "id": 1698640927824, 
                         "index": 0, 
                         "multi_edges": true, 
                         "position": 3, 
                         "socket_type": 1
                     }, 
                     {
-                        "id": 140335298161872, 
+                        "id": 1698640927880, 
                         "index": 1, 
                         "multi_edges": true, 
                         "position": 3, 
@@ -10146,14 +10178,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335298161936, 
+                "id": 1698640927936, 
                 "node_title": "L_arm_jnt", 
                 "pos_x": 419.6722902449449, 
                 "pos_y": -150.74074747133747, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335298162000, 
+                        "id": 1698640927992, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -10456,14 +10488,14 @@
                 }
             }, 
             {
-                "id": 140335298162128, 
+                "id": 1698640928104, 
                 "node_title": "L_arm_crv", 
                 "pos_x": 405.7472832717152, 
                 "pos_y": 2.4992272719856885, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335976312976, 
+                        "id": 1698640928216, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -10590,41 +10622,41 @@
                 }
             }, 
             {
-                "id": 140335298161360, 
+                "id": 1698640927432, 
                 "node_title": "R_arm", 
                 "pos_x": -711.4642137215237, 
                 "pos_y": 518.1121858287827, 
                 "inputs": [
                     {
-                        "id": 140335298162384, 
+                        "id": 1698640928384, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335298162448, 
+                        "id": 1698640928440, 
                         "index": 1, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335298162512, 
+                        "id": 1698640928496, 
                         "index": 2, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335298162576, 
+                        "id": 1698640928552, 
                         "index": 3, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 5
                     }, 
                     {
-                        "id": 140335298162640, 
+                        "id": 1698640928608, 
                         "index": 4, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -10633,14 +10665,14 @@
                 ], 
                 "outputs": [
                     {
-                        "id": 140335297069136, 
+                        "id": 1698640928664, 
                         "index": 0, 
                         "multi_edges": true, 
                         "position": 3, 
                         "socket_type": 1
                     }, 
                     {
-                        "id": 140335297069200, 
+                        "id": 1698640928720, 
                         "index": 1, 
                         "multi_edges": true, 
                         "position": 3, 
@@ -10650,14 +10682,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335297069264, 
+                "id": 1698641023048, 
                 "node_title": "R_arm_jnt", 
                 "pos_x": -941.3814426366623, 
                 "pos_y": 589.2895511393673, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297069328, 
+                        "id": 1698641023104, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -10960,14 +10992,14 @@
                 }
             }, 
             {
-                "id": 140335297069456, 
+                "id": 1698641023216, 
                 "node_title": "R_arm_crv", 
                 "pos_x": -941.3814426366623, 
                 "pos_y": 659.2895511393673, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297069584, 
+                        "id": 1698641023328, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -11094,41 +11126,41 @@
                 }
             }, 
             {
-                "id": 140335298162256, 
+                "id": 1698640928272, 
                 "node_title": "L_leg", 
                 "pos_x": 436.8793739948504, 
                 "pos_y": 1185.0178547016867, 
                 "inputs": [
                     {
-                        "id": 140335297069776, 
+                        "id": 1698641023496, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297069840, 
+                        "id": 1698641023552, 
                         "index": 1, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297069904, 
+                        "id": 1698641023608, 
                         "index": 2, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297069968, 
+                        "id": 1698641023664, 
                         "index": 3, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 5
                     }, 
                     {
-                        "id": 140335297070032, 
+                        "id": 1698641023720, 
                         "index": 4, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -11137,14 +11169,14 @@
                 ], 
                 "outputs": [
                     {
-                        "id": 140335297070096, 
+                        "id": 1698641023776, 
                         "index": 0, 
                         "multi_edges": true, 
                         "position": 3, 
                         "socket_type": 1
                     }, 
                     {
-                        "id": 140335297070160, 
+                        "id": 1698641023832, 
                         "index": 1, 
                         "multi_edges": true, 
                         "position": 3, 
@@ -11154,14 +11186,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335297070224, 
+                "id": 1698641023888, 
                 "node_title": "L_leg_jnt", 
                 "pos_x": 213.66588725841376, 
                 "pos_y": 1268.7646995569298, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297070288, 
+                        "id": 1698641023944, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -11692,14 +11724,14 @@
                 }
             }, 
             {
-                "id": 140335297070416, 
+                "id": 1698641024056, 
                 "node_title": "L_leg_crv", 
                 "pos_x": 213.66588725841376, 
                 "pos_y": 1338.7646995569298, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297070544, 
+                        "id": 1698641024168, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -11826,41 +11858,41 @@
                 }
             }, 
             {
-                "id": 140335297069648, 
+                "id": 1698641023384, 
                 "node_title": "R_leg", 
                 "pos_x": -151.8174535706105, 
                 "pos_y": 1197.5798814299733, 
                 "inputs": [
                     {
-                        "id": 140335297070736, 
+                        "id": 1698641024336, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297070800, 
+                        "id": 1698641024392, 
                         "index": 1, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297070864, 
+                        "id": 1698641024448, 
                         "index": 2, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297070928, 
+                        "id": 1698641024504, 
                         "index": 3, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 5
                     }, 
                     {
-                        "id": 140335297070992, 
+                        "id": 1698641024560, 
                         "index": 4, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -11869,14 +11901,14 @@
                 ], 
                 "outputs": [
                     {
-                        "id": 140335297071056, 
+                        "id": 1698641024616, 
                         "index": 0, 
                         "multi_edges": true, 
                         "position": 3, 
                         "socket_type": 1
                     }, 
                     {
-                        "id": 140335297071120, 
+                        "id": 1698641024672, 
                         "index": 1, 
                         "multi_edges": true, 
                         "position": 3, 
@@ -11886,14 +11918,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335297071184, 
+                "id": 1698641024728, 
                 "node_title": "R_leg_jnt", 
                 "pos_x": -385.1240534565729, 
                 "pos_y": 1242.24486535277, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297071248, 
+                        "id": 1698641024784, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -12424,14 +12456,14 @@
                 }
             }, 
             {
-                "id": 140335297071376, 
+                "id": 1698641024896, 
                 "node_title": "R_leg_crv", 
                 "pos_x": -385.1240534565729, 
                 "pos_y": 1312.24486535277, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297071504, 
+                        "id": 1698641025008, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -12558,20 +12590,20 @@
                 }
             }, 
             {
-                "id": 140335297070608, 
+                "id": 1698641024224, 
                 "node_title": "L_hand", 
                 "pos_x": 755.746154699691, 
                 "pos_y": 299.79733254268814, 
                 "inputs": [
                     {
-                        "id": 140335297071696, 
+                        "id": 1698641025176, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297071760, 
+                        "id": 1698641025232, 
                         "index": 1, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -12580,14 +12612,14 @@
                 ], 
                 "outputs": [
                     {
-                        "id": 140335297071824, 
+                        "id": 1698641025288, 
                         "index": 0, 
                         "multi_edges": true, 
                         "position": 3, 
                         "socket_type": 1
                     }, 
                     {
-                        "id": 140335297071888, 
+                        "id": 1698641025344, 
                         "index": 1, 
                         "multi_edges": true, 
                         "position": 3, 
@@ -12597,14 +12629,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335297071952, 
+                "id": 1698641025400, 
                 "node_title": "L_hand_jnt", 
                 "pos_x": 642.3269484530199, 
                 "pos_y": 511.39506139229974, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297072016, 
+                        "id": 1698641025456, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -14389,20 +14421,20 @@
                 }
             }, 
             {
-                "id": 140335297071568, 
+                "id": 1698641025064, 
                 "node_title": "R_hand", 
                 "pos_x": -1098.409313563238, 
                 "pos_y": 362.4946170134588, 
                 "inputs": [
                     {
-                        "id": 140335297072272, 
+                        "id": 1698641025680, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297072336, 
+                        "id": 1698641025736, 
                         "index": 1, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -14411,14 +14443,14 @@
                 ], 
                 "outputs": [
                     {
-                        "id": 140335297072400, 
+                        "id": 1698641025792, 
                         "index": 0, 
                         "multi_edges": true, 
                         "position": 3, 
                         "socket_type": 1
                     }, 
                     {
-                        "id": 140335297072464, 
+                        "id": 1698641025848, 
                         "index": 1, 
                         "multi_edges": true, 
                         "position": 3, 
@@ -14428,14 +14460,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335297072528, 
+                "id": 1698641025904, 
                 "node_title": "R_hand_jnt", 
                 "pos_x": -1087.122260476211, 
                 "pos_y": 535.6331024774064, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297072592, 
+                        "id": 1698641025960, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -16220,27 +16252,27 @@
                 }
             }, 
             {
-                "id": 140335297072144, 
+                "id": 1698641025568, 
                 "node_title": "L_shoulder", 
                 "pos_x": 102.99994202645274, 
                 "pos_y": 24.523795720584044, 
                 "inputs": [
                     {
-                        "id": 140335297072848, 
+                        "id": 1698641026184, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297072912, 
+                        "id": 1698641026240, 
                         "index": 1, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297072976, 
+                        "id": 1698641026296, 
                         "index": 2, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -16249,7 +16281,7 @@
                 ], 
                 "outputs": [
                     {
-                        "id": 140335297073040, 
+                        "id": 1698641026352, 
                         "index": 0, 
                         "multi_edges": true, 
                         "position": 3, 
@@ -16259,14 +16291,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335297073104, 
+                "id": 1698641026408, 
                 "node_title": "L_shoulder_jnt", 
                 "pos_x": 103.49973911903737, 
                 "pos_y": 132.42849689115363, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297192016, 
+                        "id": 1698641026464, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -16569,27 +16601,27 @@
                 }
             }, 
             {
-                "id": 140335297072720, 
+                "id": 1698641026072, 
                 "node_title": "R_shoulder", 
                 "pos_x": -645.3895483760235, 
                 "pos_y": 45.738928591518516, 
                 "inputs": [
                     {
-                        "id": 140335297192336, 
+                        "id": 1698641026688, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297192400, 
+                        "id": 1698641026744, 
                         "index": 1, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297192464, 
+                        "id": 1698641026800, 
                         "index": 2, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -16598,7 +16630,7 @@
                 ], 
                 "outputs": [
                     {
-                        "id": 140335297192528, 
+                        "id": 1698641026856, 
                         "index": 0, 
                         "multi_edges": true, 
                         "position": 3, 
@@ -16608,14 +16640,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335297192592, 
+                "id": 1698641026912, 
                 "node_title": "R_shoulder_jnt", 
                 "pos_x": -643.8260552696825, 
                 "pos_y": 162.8919063413484, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297192656, 
+                        "id": 1698641026968, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -16918,7 +16950,7 @@
                 }
             }, 
             {
-                "id": 140335297192208, 
+                "id": 1698641026576, 
                 "node_title": "constraint", 
                 "pos_x": 99.46081091541816, 
                 "pos_y": -182.22390079770742, 
@@ -16927,20 +16959,20 @@
                 "content": {}
             }, 
             {
-                "id": 140335297192848, 
+                "id": 1698641158216, 
                 "node_title": "head", 
                 "pos_x": 177.97155411123038, 
                 "pos_y": 498.7966233169108, 
                 "inputs": [
                     {
-                        "id": 140335297193040, 
+                        "id": 1698641158384, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297193104, 
+                        "id": 1698641158440, 
                         "index": 1, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -16949,35 +16981,35 @@
                 ], 
                 "outputs": [
                     {
-                        "id": 140335297193168, 
+                        "id": 1698641158496, 
                         "index": 0, 
                         "multi_edges": true, 
                         "position": 3, 
                         "socket_type": 1
                     }, 
                     {
-                        "id": 140335297193232, 
+                        "id": 1698641158552, 
                         "index": 1, 
                         "multi_edges": true, 
                         "position": 3, 
                         "socket_type": 1
                     }, 
                     {
-                        "id": 140335297193296, 
+                        "id": 1698641158608, 
                         "index": 2, 
                         "multi_edges": true, 
                         "position": 3, 
                         "socket_type": 1
                     }, 
                     {
-                        "id": 140335297193360, 
+                        "id": 1698641158664, 
                         "index": 3, 
                         "multi_edges": true, 
                         "position": 3, 
                         "socket_type": 1
                     }, 
                     {
-                        "id": 140335297193424, 
+                        "id": 1698641158720, 
                         "index": 4, 
                         "multi_edges": true, 
                         "position": 3, 
@@ -16987,14 +17019,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335297193488, 
+                "id": 1698641158776, 
                 "node_title": "head_jnt", 
                 "pos_x": -98.33333333333331, 
                 "pos_y": 792.5, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297193552, 
+                        "id": 1698641158832, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -17297,41 +17329,41 @@
                 }
             }, 
             {
-                "id": 140335297192976, 
+                "id": 1698641158328, 
                 "node_title": "neck", 
                 "pos_x": 443.2560013611011, 
                 "pos_y": 479.8350946954986, 
                 "inputs": [
                     {
-                        "id": 140335297193808, 
+                        "id": 1698641159056, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297193872, 
+                        "id": 1698641159112, 
                         "index": 1, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297193936, 
+                        "id": 1698641159168, 
                         "index": 2, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 0
                     }, 
                     {
-                        "id": 140335297194000, 
+                        "id": 1698641159224, 
                         "index": 3, 
                         "multi_edges": false, 
                         "position": 1, 
                         "socket_type": 5
                     }, 
                     {
-                        "id": 140335297194064, 
+                        "id": 1698641159280, 
                         "index": 4, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -17340,7 +17372,7 @@
                 ], 
                 "outputs": [
                     {
-                        "id": 140335297194128, 
+                        "id": 1698641159336, 
                         "index": 0, 
                         "multi_edges": true, 
                         "position": 3, 
@@ -17350,14 +17382,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335297194192, 
+                "id": 1698641159392, 
                 "node_title": "neck_jnt", 
                 "pos_x": -241.04380561259407, 
                 "pos_y": 629.2556468172485, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297194256, 
+                        "id": 1698641159448, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -17546,14 +17578,14 @@
                 }
             }, 
             {
-                "id": 140335297194384, 
+                "id": 1698641159560, 
                 "node_title": "neck_srf", 
                 "pos_x": -98.33333333333331, 
                 "pos_y": 862.5, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297194512, 
+                        "id": 1698641159672, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -17726,13 +17758,13 @@
                 }
             }, 
             {
-                "id": 140335297193680, 
+                "id": 1698641158944, 
                 "node_title": "strip_01", 
                 "pos_x": 313.0, 
                 "pos_y": 250.0, 
                 "inputs": [
                     {
-                        "id": 140335297194704, 
+                        "id": 1698641159840, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -17743,14 +17775,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335297194768, 
+                "id": 1698641159896, 
                 "node_title": "strip_01_srf", 
                 "pos_x": 311.8451046967019, 
                 "pos_y": 348.12170831550446, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297194832, 
+                        "id": 1698641159952, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -17993,13 +18025,13 @@
                 }
             }, 
             {
-                "id": 140335297194576, 
+                "id": 1698641159728, 
                 "node_title": "strip_02", 
                 "pos_x": 528.5781210868095, 
                 "pos_y": 252.88261783147522, 
                 "inputs": [
                     {
-                        "id": 140335297195024, 
+                        "id": 1698641160120, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 1, 
@@ -18010,14 +18042,14 @@
                 "content": {}
             }, 
             {
-                "id": 140335297195088, 
+                "id": 1698641160176, 
                 "node_title": "strip_02_srf", 
                 "pos_x": 525.2837111493625, 
                 "pos_y": 350.3661211218932, 
                 "inputs": [], 
                 "outputs": [
                     {
-                        "id": 140335297195152, 
+                        "id": 1698641160232, 
                         "index": 0, 
                         "multi_edges": false, 
                         "position": 3, 
@@ -18260,7 +18292,7 @@
                 }
             }, 
             {
-                "id": 140335297194896, 
+                "id": 1698641160008, 
                 "node_title": "strips_skc", 
                 "pos_x": 432.2432857928784, 
                 "pos_y": 143.74417446075907, 
@@ -18269,7 +18301,7 @@
                 "content": {}
             }, 
             {
-                "id": 140335297195216, 
+                "id": 1698641160288, 
                 "node_title": "visibility", 
                 "pos_x": 313.0, 
                 "pos_y": 250.0, 
@@ -18278,7 +18310,7 @@
                 "content": {}
             }, 
             {
-                "id": 140335297195344, 
+                "id": 1698641160400, 
                 "node_title": "body_skin", 
                 "pos_x": 97.10371919275082, 
                 "pos_y": 247.30826991029176, 
@@ -18287,7 +18319,7 @@
                 "content": {}
             }, 
             {
-                "id": 140335297195408, 
+                "id": 1698641160456, 
                 "node_title": "weighted_constraint", 
                 "pos_x": -573.3333333333334, 
                 "pos_y": -567.5, 
@@ -18296,7 +18328,7 @@
                 "content": {}
             }, 
             {
-                "id": 140335297195472, 
+                "id": 1698641160512, 
                 "node_title": "body_skin(0)", 
                 "pos_x": -790.2062600335784, 
                 "pos_y": -714.5747433944189, 
@@ -18305,10 +18337,19 @@
                 "content": {}
             }, 
             {
-                "id": 140335297195536, 
+                "id": 1698641160568, 
                 "node_title": "weighted_constraint(0)", 
                 "pos_x": -573.3333333333334, 
                 "pos_y": -567.5, 
+                "inputs": [], 
+                "outputs": [], 
+                "content": {}
+            }, 
+            {
+                "id": 1698639196512, 
+                "node_title": "head_space_switch", 
+                "pos_x": 164.0, 
+                "pos_y": 88.0, 
                 "inputs": [], 
                 "outputs": [], 
                 "content": {}
@@ -18316,231 +18357,231 @@
         ], 
         "edges": [
             {
-                "id": 140335298160656, 
+                "id": 1698640926816, 
                 "edge_type": 2, 
-                "start": 140335298160464, 
-                "end": 140335298160208
+                "start": 1698640926648, 
+                "end": 1698640926424
             }, 
             {
-                "id": 140335298161232, 
+                "id": 1698640927320, 
                 "edge_type": 2, 
-                "start": 140335298161040, 
-                "end": 140335298160784
+                "start": 1698640927152, 
+                "end": 1698640926928
             }, 
             {
-                "id": 140335298161424, 
+                "id": 1698640927488, 
                 "edge_type": 2, 
-                "start": 140335298161296, 
-                "end": 140335298160848
+                "start": 1698640927376, 
+                "end": 1698640926984
             }, 
             {
-                "id": 140335298162192, 
+                "id": 1698640928160, 
                 "edge_type": 2, 
-                "start": 140335298162000, 
-                "end": 140335298161680
+                "start": 1698640927992, 
+                "end": 1698640927712
             }, 
             {
-                "id": 140335298162320, 
+                "id": 1698640928328, 
                 "edge_type": 2, 
-                "start": 140335976312976, 
-                "end": 140335298161744
+                "start": 1698640928216, 
+                "end": 1698640927768
             }, 
             {
-                "id": 140335297069520, 
+                "id": 1698641023272, 
                 "edge_type": 2, 
-                "start": 140335297069328, 
-                "end": 140335298162576
+                "start": 1698641023104, 
+                "end": 1698640928552
             }, 
             {
-                "id": 140335297069712, 
+                "id": 1698641023440, 
                 "edge_type": 2, 
-                "start": 140335297069584, 
-                "end": 140335298162640
+                "start": 1698641023328, 
+                "end": 1698640928608
             }, 
             {
-                "id": 140335297070480, 
+                "id": 1698641024112, 
                 "edge_type": 2, 
-                "start": 140335297070288, 
-                "end": 140335297069968
+                "start": 1698641023944, 
+                "end": 1698641023664
             }, 
             {
-                "id": 140335297070672, 
+                "id": 1698641024280, 
                 "edge_type": 2, 
-                "start": 140335297070544, 
-                "end": 140335297070032
+                "start": 1698641024168, 
+                "end": 1698641023720
             }, 
             {
-                "id": 140335297071440, 
+                "id": 1698641024952, 
                 "edge_type": 2, 
-                "start": 140335297071248, 
-                "end": 140335297070928
+                "start": 1698641024784, 
+                "end": 1698641024504
             }, 
             {
-                "id": 140335297071632, 
+                "id": 1698641025120, 
                 "edge_type": 2, 
-                "start": 140335297071504, 
-                "end": 140335297070992
+                "start": 1698641025008, 
+                "end": 1698641024560
             }, 
             {
-                "id": 140335297072208, 
+                "id": 1698641025624, 
                 "edge_type": 2, 
-                "start": 140335297072016, 
-                "end": 140335297071760
+                "start": 1698641025456, 
+                "end": 1698641025232
             }, 
             {
-                "id": 140335297072784, 
+                "id": 1698641026128, 
                 "edge_type": 2, 
-                "start": 140335297072592, 
-                "end": 140335297072336
+                "start": 1698641025960, 
+                "end": 1698641025736
             }, 
             {
-                "id": 140335297192272, 
+                "id": 1698641026632, 
                 "edge_type": 2, 
-                "start": 140335297192016, 
-                "end": 140335297072976
+                "start": 1698641026464, 
+                "end": 1698641026296
             }, 
             {
-                "id": 140335297192912, 
+                "id": 1698641158272, 
                 "edge_type": 2, 
-                "start": 140335297192656, 
-                "end": 140335297192464
+                "start": 1698641026968, 
+                "end": 1698641026800
             }, 
             {
-                "id": 140335297193744, 
+                "id": 1698641159000, 
                 "edge_type": 2, 
-                "start": 140335297193552, 
-                "end": 140335297193104
+                "start": 1698641158832, 
+                "end": 1698641158440
             }, 
             {
-                "id": 140335297194448, 
+                "id": 1698641159616, 
                 "edge_type": 2, 
-                "start": 140335297194256, 
-                "end": 140335297194000
+                "start": 1698641159448, 
+                "end": 1698641159224
             }, 
             {
-                "id": 140335297194640, 
+                "id": 1698641159784, 
                 "edge_type": 2, 
-                "start": 140335297194512, 
-                "end": 140335297194064
+                "start": 1698641159672, 
+                "end": 1698641159280
             }, 
             {
-                "id": 140335297194960, 
+                "id": 1698641160064, 
                 "edge_type": 2, 
-                "start": 140335297194832, 
-                "end": 140335297194704
+                "start": 1698641159952, 
+                "end": 1698641159840
             }, 
             {
-                "id": 140335297195280, 
+                "id": 1698641160344, 
                 "edge_type": 2, 
-                "start": 140335297195152, 
-                "end": 140335297195024
+                "start": 1698641160232, 
+                "end": 1698641160120
             }, 
             {
-                "id": 140335297195600, 
+                "id": 1698641160624, 
                 "edge_type": 2, 
-                "start": 140335298160272, 
-                "end": 140335298160720
+                "start": 1698640926480, 
+                "end": 1698640926872
             }, 
             {
-                "id": 140335297195664, 
+                "id": 1698641160680, 
                 "edge_type": 2, 
-                "start": 140335298160912, 
-                "end": 140335297072848
+                "start": 1698640927040, 
+                "end": 1698641026184
             }, 
             {
-                "id": 140335297195728, 
+                "id": 1698641160736, 
                 "edge_type": 2, 
-                "start": 140335298160912, 
-                "end": 140335297192336
+                "start": 1698640927040, 
+                "end": 1698641026688
             }, 
             {
-                "id": 140335297195792, 
+                "id": 1698641160792, 
                 "edge_type": 2, 
-                "start": 140335297194128, 
-                "end": 140335297193040
+                "start": 1698641159336, 
+                "end": 1698641158384
             }, 
             {
-                "id": 140335297195856, 
+                "id": 1698641160848, 
                 "edge_type": 2, 
-                "start": 140335298160912, 
-                "end": 140335297193808
+                "start": 1698640927040, 
+                "end": 1698641159056
             }, 
             {
-                "id": 140335297195920, 
+                "id": 1698641160904, 
                 "edge_type": 2, 
-                "start": 140335297193168, 
-                "end": 140335297193936
+                "start": 1698641158496, 
+                "end": 1698641159168
             }, 
             {
-                "id": 140335297195984, 
+                "id": 1698641160960, 
                 "edge_type": 2, 
-                "start": 140335297193232, 
-                "end": 140335297193872
+                "start": 1698641158552, 
+                "end": 1698641159112
             }, 
             {
-                "id": 140335296802896, 
+                "id": 1698641161016, 
                 "edge_type": 2, 
-                "start": 140335298160336, 
-                "end": 140335297069776
+                "start": 1698640926536, 
+                "end": 1698641023496
             }, 
             {
-                "id": 140335296802960, 
+                "id": 1698641161072, 
                 "edge_type": 2, 
-                "start": 140335298160336, 
-                "end": 140335297070736
+                "start": 1698640926536, 
+                "end": 1698641024336
             }, 
             {
-                "id": 140335296803024, 
+                "id": 1698641161128, 
                 "edge_type": 2, 
-                "start": 140335297073040, 
-                "end": 140335298161488
+                "start": 1698641026352, 
+                "end": 1698640927544
             }, 
             {
-                "id": 140335296803088, 
+                "id": 1698641161184, 
                 "edge_type": 2, 
-                "start": 140335298161808, 
-                "end": 140335297071696
+                "start": 1698640927824, 
+                "end": 1698641025176
             }, 
             {
-                "id": 140335296803152, 
+                "id": 1698641161240, 
                 "edge_type": 2, 
-                "start": 140335297071824, 
-                "end": 140335298161552
+                "start": 1698641025288, 
+                "end": 1698640927600
             }, 
             {
-                "id": 140335296803216, 
+                "id": 1698641161296, 
                 "edge_type": 2, 
-                "start": 140335297071888, 
-                "end": 140335298161616
+                "start": 1698641025344, 
+                "end": 1698640927656
             }, 
             {
-                "id": 140335296803280, 
+                "id": 1698641161352, 
                 "edge_type": 2, 
-                "start": 140335297192528, 
-                "end": 140335298162384
+                "start": 1698641026856, 
+                "end": 1698640928384
             }, 
             {
-                "id": 140335296803344, 
+                "id": 1698641161408, 
                 "edge_type": 2, 
-                "start": 140335297072400, 
-                "end": 140335298162448
+                "start": 1698641025792, 
+                "end": 1698640928440
             }, 
             {
-                "id": 140335296803408, 
+                "id": 1698641161464, 
                 "edge_type": 2, 
-                "start": 140335297072464, 
-                "end": 140335298162512
+                "start": 1698641025848, 
+                "end": 1698640928496
             }, 
             {
-                "id": 140335296803472, 
+                "id": 1698641161520, 
                 "edge_type": 2, 
-                "start": 140335297069136, 
-                "end": 140335297072272
+                "start": 1698640928664, 
+                "end": 1698641025680
             }
         ], 
         "view_center": {
-            "y": 1.0, 
-            "x": 2.0
+            "y": 88.0, 
+            "x": 33.0
         }
     }, 
     "positions": [
@@ -18865,6 +18906,13 @@
                 -567.5
             ], 
             "title": "weighted_constraint(0)"
+        }, 
+        {
+            "pos": [
+                164.0, 
+                88.0
+            ], 
+            "title": "head_space_switch"
         }
     ], 
     "job_edges": [
