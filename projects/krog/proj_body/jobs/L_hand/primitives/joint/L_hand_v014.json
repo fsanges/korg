@@ -1,0 +1,1774 @@
+{
+    "root_joints": [
+        {
+            "object_name": "L_hand_jnt", 
+            "object_parent": "L_hand_jnt_grp", 
+            "object_attrs": {}, 
+            "translate": [
+                6.9374819071089355, 
+                13.775855389494065, 
+                -0.9082765719367079
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                24.499999999999957, 
+                -7.795105877792044, 
+                -54.395763986026424
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }
+    ], 
+    "joint_objs": [
+        {
+            "object_name": "L_hand_jnt", 
+            "object_parent": "L_hand_jnt_grp", 
+            "object_attrs": {}, 
+            "translate": [
+                6.9374819071089355, 
+                13.775855389494065, 
+                -0.9082765719367079
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                24.499999999999957, 
+                -7.795105877792044, 
+                -54.395763986026424
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_hand_bend_01_jnt", 
+            "object_parent": "L_hand_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                1.6599751219844583, 
+                -0.28191062103844367, 
+                -0.02993669808653987
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": true, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_hand_out_01_jnt", 
+            "object_parent": "L_hand_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                1.404924181494759, 
+                -0.24284018608442537, 
+                -0.7173241713308958
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                -50.811271963941195, 
+                1.905152254196647e-12, 
+                94.48229669158748
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": true, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_hand_in_01_jnt", 
+            "object_parent": "L_hand_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                1.3980071448044686, 
+                -0.14778770413118814, 
+                0.6804227474219955
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                24.679639203071638, 
+                79.8392820258786, 
+                43.153202509465274
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": true, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_middle_04_jend", 
+            "object_parent": "L_middle_03_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.31433396119457857, 
+                -1.7763568394002505e-15, 
+                -6.217248937900877e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_middle_03_jnt", 
+            "object_parent": "L_middle_02_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.38046217470956734, 
+                5.329070518200751e-15, 
+                3.552713678800501e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_middle_02_jnt", 
+            "object_parent": "L_middle_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.5126454303208714, 
+                -3.552713678800501e-15, 
+                2.6645352591003757e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_middle_01_jnt", 
+            "object_parent": "L_middle_base_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                1.1521291152944926, 
+                3.552713678800501e-15, 
+                1.7763568394002505e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                3.2811935823928247, 
+                -0.9657832399249473, 
+                -12.221086218238005
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_middle_base_01_jnt", 
+            "object_parent": "L_hand_base_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.3572402947596487, 
+                0.11465703778353209, 
+                -0.3574078557292708
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.0, 
+                51.680820798538804, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_index_04_jend", 
+            "object_parent": "L_index_03_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.3134163743789795, 
+                3.552713678800501e-15, 
+                4.440892098500626e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_index_03_jnt", 
+            "object_parent": "L_index_02_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.42341420438215305, 
+                -7.209171952980709e-15, 
+                3.7247765635739505e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_index_02_jnt", 
+            "object_parent": "L_index_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.5895074594070878, 
+                -1.2330753280422047e-14, 
+                7.161155349266757e-16
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_index_01_jnt", 
+            "object_parent": "L_index_base_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                1.024324799669122, 
+                1.5987211554602254e-14, 
+                3.552713678800501e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.006490556019790105, 
+                -2.264834371495629, 
+                -2.542274560327506
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_index_base_01_jnt", 
+            "object_parent": "L_hand_base_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.6341266637154064, 
+                0.11523652446354404, 
+                -0.10879461946166158
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                4.848013310842383, 
+                40.02906490989159, 
+                -9.290880298228885
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_ring_04_jend", 
+            "object_parent": "L_ring_03_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.548011536635741, 
+                1.0658141036401503e-14, 
+                -2.6645352591003757e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                -0.841958591579498, 
+                -44.27144164994506, 
+                -172.1748447371554
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_ring_03_jnt", 
+            "object_parent": "L_ring_02_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.5232991385234627, 
+                2.1316282072803006e-14, 
+                7.993605777301127e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                1.9083328088781113e-14, 
+                5.565970692561156e-15, 
+                -2.0276036094329924e-14
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_ring_02_jnt", 
+            "object_parent": "L_ring_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.6115125231835483, 
+                -8.881784197001252e-15, 
+                -5.329070518200751e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                1.9083328088781113e-14, 
+                4.770832022195277e-15, 
+                -1.6300342742500527e-14
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_ring_01_jnt", 
+            "object_parent": "L_ring_base_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                1.7816141165473969, 
+                1.0658141036401503e-14, 
+                1.3322676295501878e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                69.75969263480998, 
+                -43.30819222441552, 
+                -72.85542315016716
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_ring_base_01_jnt", 
+            "object_parent": "L_hand_base_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.30385589273964975, 
+                0.11486203786928151, 
+                -0.371255461282054
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                131.81664558921202, 
+                37.22692068331913, 
+                177.9123930071385
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_pinky_04_jend", 
+            "object_parent": "L_pinky_03_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.3277178900977926, 
+                0.0, 
+                -1.7763568394002505e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_pinky_03_jnt", 
+            "object_parent": "L_pinky_02_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.35871824221851245, 
+                -1.7763568394002505e-15, 
+                5.329070518200751e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_pinky_02_jnt", 
+            "object_parent": "L_pinky_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.45897587872856427, 
+                -1.7763568394002505e-15, 
+                -5.329070518200751e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_pinky_01_jnt", 
+            "object_parent": "L_pinky_base_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                1.1849058611905994, 
+                -3.552713678800501e-15, 
+                0.0
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                4.973980176379675e-17, 
+                2.4001267785983535, 
+                -14.082428091046655
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_pinky_base_01_jnt", 
+            "object_parent": "L_hand_base_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                -0.11450570793301829, 
+                0.0904895087754447, 
+                -0.6216928727834814
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                -0.0706936982684369, 
+                53.782919555245, 
+                -1.4079976481639631
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_thumb_04_jend", 
+            "object_parent": "L_thumb_03_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.45072074349549773, 
+                -5.021753412409735e-15, 
+                -3.635600934887018e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                -3.050056663130336, 
+                -0.05735098009916256, 
+                -160.435339540263
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_thumb_03_jnt", 
+            "object_parent": "L_thumb_02_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.5943880087460575, 
+                4.13357499270961e-15, 
+                -4.358004842414109e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_thumb_02_jnt", 
+            "object_parent": "L_thumb_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.7879444707028629, 
+                -1.0658141036401503e-14, 
+                -1.7763568394002505e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                -0.9755108319841713, 
+                -6.260307849957845, 
+                -8.880094705051896
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_thumb_01_jnt", 
+            "object_parent": "L_thumb_base_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                -1.7763568394002505e-15, 
+                7.105427357601002e-15, 
+                7.993605777301127e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                31.9803525369914, 
+                -9.256397671584583, 
+                -13.557336405555517
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_thumb_base_01_jnt", 
+            "object_parent": "L_hand_base_01_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.4151996839505383, 
+                -3.552713678800501e-15, 
+                1.7763568394002505e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                39.0379204779954, 
+                1.3133243706709332, 
+                0.168276950913492
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "L_hand_base_01_jnt", 
+            "object_parent": "L_hand_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                1.5987211554602254e-14, 
+                1.7763568394002505e-15, 
+                9.769962616701378e-15
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.2, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                1.0065548657663399e-14, 
+                -50.804497700770206, 
+                -4.030228095835762
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }
+    ], 
+    "skeleton_folder": ""
+}

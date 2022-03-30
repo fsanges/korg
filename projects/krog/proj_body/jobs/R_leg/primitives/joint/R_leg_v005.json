@@ -1,0 +1,520 @@
+{
+    "root_joints": [
+        {
+            "object_name": "R_leg_jnt", 
+            "object_parent": "R_leg_jnt_grp", 
+            "object_attrs": {}, 
+            "translate": [
+                -1.31377, 
+                13.1978, 
+                -0.642597
+            ], 
+            "rotate": [
+                -0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xzy", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.29999999999999993, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                178.69844973420945, 
+                7.902363739743586, 
+                81.27896229658191
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }
+    ], 
+    "joint_objs": [
+        {
+            "object_name": "R_leg_jnt", 
+            "object_parent": "R_leg_jnt_grp", 
+            "object_attrs": {}, 
+            "translate": [
+                -1.31377, 
+                13.1978, 
+                -0.642597
+            ], 
+            "rotate": [
+                -0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xzy", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.29999999999999993, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                178.69844973420945, 
+                7.902363739743586, 
+                81.27896229658191
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "R_toe_jend", 
+            "object_parent": "R_toe_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                -1.5490595702497156, 
+                -1.662247473888101e-06, 
+                -3.1833633173938836e-08
+            ], 
+            "rotate": [
+                -0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xzy", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.29999999999999993, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                1.2074182697257331e-06, 
+                4.6079811051301094e-23, 
+                -1.0053776676966357e-22
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "R_toe_jnt", 
+            "object_parent": "R_foot_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                -1.7449778577958104, 
+                8.1974034529253e-06, 
+                2.854831525511692e-06
+            ], 
+            "rotate": [
+                -0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xzy", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.29999999999999993, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                1.4275093041869875, 
+                -18.437046905907106, 
+                -3.1812815340077294
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "R_foot_in_1", 
+            "object_parent": "R_heel_1", 
+            "object_attrs": {}, 
+            "translate": [
+                -2.514321, 
+                0.091449000000001, 
+                1.1157500000000002
+            ], 
+            "rotate": [
+                -0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xzy", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.29999999999999993, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                1.3716142063811415e-14, 
+                89.99999999999999, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "R_foot_out_1", 
+            "object_parent": "R_heel_1", 
+            "object_attrs": {}, 
+            "translate": [
+                -2.8248379999999997, 
+                0.11942299999999992, 
+                -0.6713399999999994
+            ], 
+            "rotate": [
+                -0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xzy", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.29999999999999993, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                1.3716142063811415e-14, 
+                89.99999999999999, 
+                0.0
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "R_heel_1", 
+            "object_parent": "R_foot_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                0.46271760768268866, 
+                -0.06182951064489339, 
+                1.896203659845067
+            ], 
+            "rotate": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xyz", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.29999999999999993, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                92.09557944744088, 
+                -26.32161768940021, 
+                -4.717479362748359
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "R_foot_jnt", 
+            "object_parent": "R_knee_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                -6.93276791545251, 
+                -9.604606443502917e-06, 
+                -2.702176362223696e-06
+            ], 
+            "rotate": [
+                -0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xzy", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.29999999999999993, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                -4.317149768719782, 
+                -75.51011549408058, 
+                -4.778442188896248
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }, 
+        {
+            "object_name": "R_knee_jnt", 
+            "object_parent": "R_leg_jnt", 
+            "object_attrs": {}, 
+            "translate": [
+                -5.1497065403202305, 
+                3.1104878233101374e-06, 
+                -1.8357858002637784e-06
+            ], 
+            "rotate": [
+                -0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "visibility": true, 
+            "shear": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "rotate_order": "xzy", 
+            "rotate_axis": [
+                0.0, 
+                -0.0, 
+                0.0
+            ], 
+            "inherits_transform": true, 
+            "radius": 0.29999999999999993, 
+            "degrees_of_freedom": [
+                true, 
+                true, 
+                true
+            ], 
+            "stiffness": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "preferred_angle": [
+                0.0, 
+                45.0, 
+                0.0
+            ], 
+            "joint_orient": [
+                -3.975996880846417e-15, 
+                20.180268890147655, 
+                -2.2343401903301167e-14
+            ], 
+            "segment_scale_compensate": true, 
+            "enable_overrides": false, 
+            "display_type": "normal"
+        }
+    ], 
+    "skeleton_folder": ""
+}
