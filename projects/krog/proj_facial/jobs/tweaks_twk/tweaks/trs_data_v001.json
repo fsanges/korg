@@ -1,0 +1,1782 @@
+{
+    "L_pariental_twk_07_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_pariental_twk_07_ctrl"
+        ]
+    }, 
+    "R_pariental_twk_07_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_pariental_twk_07_ctrl"
+        ]
+    }, 
+    "L_nasalis_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_nasalis_twk_01_ctrl"
+        ]
+    }, 
+    "R_nasalis_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_nasalis_twk_01_ctrl"
+        ]
+    }, 
+    "L_frontalis_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_frontalis_twk_01_ctrl"
+        ]
+    }, 
+    "R_frontalis_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_frontalis_twk_01_ctrl"
+        ]
+    }, 
+    "L_frontalis_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_frontalis_twk_02_ctrl"
+        ]
+    }, 
+    "R_frontalis_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_frontalis_twk_02_ctrl"
+        ]
+    }, 
+    "L_frontalis_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_frontalis_twk_03_ctrl"
+        ]
+    }, 
+    "R_frontalis_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_frontalis_twk_03_ctrl"
+        ]
+    }, 
+    "L_occipital_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_occipital_twk_01_ctrl"
+        ]
+    }, 
+    "R_occipital_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_occipital_twk_01_ctrl"
+        ]
+    }, 
+    "L_pariental_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_pariental_twk_01_ctrl"
+        ]
+    }, 
+    "R_pariental_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_pariental_twk_01_ctrl"
+        ]
+    }, 
+    "L_pariental_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_pariental_twk_02_ctrl"
+        ]
+    }, 
+    "R_pariental_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_pariental_twk_02_ctrl"
+        ]
+    }, 
+    "L_pariental_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_pariental_twk_03_ctrl"
+        ]
+    }, 
+    "R_pariental_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_pariental_twk_03_ctrl"
+        ]
+    }, 
+    "L_pariental_twk_04_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_pariental_twk_04_ctrl"
+        ]
+    }, 
+    "R_pariental_twk_04_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_pariental_twk_04_ctrl"
+        ]
+    }, 
+    "L_pariental_twk_05_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_pariental_twk_05_ctrl"
+        ]
+    }, 
+    "R_pariental_twk_05_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_pariental_twk_05_ctrl"
+        ]
+    }, 
+    "L_pariental_twk_06_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_pariental_twk_06_ctrl"
+        ]
+    }, 
+    "R_pariental_twk_06_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_pariental_twk_06_ctrl"
+        ]
+    }, 
+    "L_platisma_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_platisma_twk_01_ctrl"
+        ]
+    }, 
+    "R_platisma_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_platisma_twk_01_ctrl"
+        ]
+    }, 
+    "L_orbi_oris_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_orbi_oris_twk_02_ctrl"
+        ]
+    }, 
+    "R_orbi_oris_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_orbi_oris_twk_02_ctrl"
+        ]
+    }, 
+    "L_orbi_oris_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_orbi_oris_twk_03_ctrl"
+        ]
+    }, 
+    "R_orbi_oris_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_orbi_oris_twk_03_ctrl"
+        ]
+    }, 
+    "L_orbi_oris_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_orbi_oris_twk_01_ctrl"
+        ]
+    }, 
+    "R_orbi_oris_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_orbi_oris_twk_01_ctrl"
+        ]
+    }, 
+    "L_orbi_oris_twk_04_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_orbi_oris_twk_04_ctrl"
+        ]
+    }, 
+    "R_orbi_oris_twk_04_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_orbi_oris_twk_04_ctrl"
+        ]
+    }, 
+    "L_orbi_oris_twk_05_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_orbi_oris_twk_05_ctrl"
+        ]
+    }, 
+    "R_orbi_oris_twk_05_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_orbi_oris_twk_05_ctrl"
+        ]
+    }, 
+    "C_chin_twk_1_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "C_chin_twk_1_ctrl"
+        ]
+    }, 
+    "C_neck_twk_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "C_neck_twk_ctrl"
+        ]
+    }, 
+    "L_sternocleidomas_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_sternocleidomas_twk_02_ctrl"
+        ]
+    }, 
+    "R_sternocleidomas_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_sternocleidomas_twk_02_ctrl"
+        ]
+    }, 
+    "L_sternocleidomas_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_sternocleidomas_twk_03_ctrl"
+        ]
+    }, 
+    "R_sternocleidomas_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_sternocleidomas_twk_03_ctrl"
+        ]
+    }, 
+    "L_occipital_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_occipital_twk_02_ctrl"
+        ]
+    }, 
+    "R_occipital_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_occipital_twk_02_ctrl"
+        ]
+    }, 
+    "L_sternocleidomas_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_sternocleidomas_twk_01_ctrl"
+        ]
+    }, 
+    "R_sternocleidomas_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_sternocleidomas_twk_01_ctrl"
+        ]
+    }, 
+    "L_orbi_oculi_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_orbi_oculi_twk_02_ctrl"
+        ]
+    }, 
+    "R_orbi_oculi_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_orbi_oculi_twk_02_ctrl"
+        ]
+    }, 
+    "L_orbi_oculi_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_orbi_oculi_twk_03_ctrl"
+        ]
+    }, 
+    "R_orbi_oculi_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_orbi_oculi_twk_03_ctrl"
+        ]
+    }, 
+    "L_orbi_oculi_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_orbi_oculi_twk_01_ctrl"
+        ]
+    }, 
+    "R_orbi_oculi_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_orbi_oculi_twk_01_ctrl"
+        ]
+    }, 
+    "L_pariental_twk_09_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_pariental_twk_09_ctrl"
+        ]
+    }, 
+    "R_pariental_twk_09_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_pariental_twk_09_ctrl"
+        ]
+    }, 
+    "L_orbi_oculi_twk_04_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_orbi_oculi_twk_04_ctrl"
+        ]
+    }, 
+    "R_orbi_oculi_twk_04_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_orbi_oculi_twk_04_ctrl"
+        ]
+    }, 
+    "C_throat_twk_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "C_throat_twk_ctrl"
+        ]
+    }, 
+    "L_frontal_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_frontal_twk_02_ctrl"
+        ]
+    }, 
+    "R_frontal_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_frontal_twk_02_ctrl"
+        ]
+    }, 
+    "L_frontal_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_frontal_twk_03_ctrl"
+        ]
+    }, 
+    "R_frontal_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_frontal_twk_03_ctrl"
+        ]
+    }, 
+    "L_frontal_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_frontal_twk_01_ctrl"
+        ]
+    }, 
+    "R_frontal_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_frontal_twk_01_ctrl"
+        ]
+    }, 
+    "C_obicularis_twk_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "C_obicularis_twk_ctrl"
+        ]
+    }, 
+    "L_nasalis_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_nasalis_twk_02_ctrl"
+        ]
+    }, 
+    "R_nasalis_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_nasalis_twk_02_ctrl"
+        ]
+    }, 
+    "L_levator_labii_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_levator_labii_twk_01_ctrl"
+        ]
+    }, 
+    "R_levator_labii_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_levator_labii_twk_01_ctrl"
+        ]
+    }, 
+    "L_masseter_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_masseter_twk_02_ctrl"
+        ]
+    }, 
+    "R_masseter_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_masseter_twk_02_ctrl"
+        ]
+    }, 
+    "C_chin_twk_2_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "C_chin_twk_2_ctrl"
+        ]
+    }, 
+    "L_mentalis_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_mentalis_twk_01_ctrl"
+        ]
+    }, 
+    "R_mentalis_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_mentalis_twk_01_ctrl"
+        ]
+    }, 
+    "L_mentalis_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_mentalis_twk_02_ctrl"
+        ]
+    }, 
+    "R_mentalis_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_mentalis_twk_02_ctrl"
+        ]
+    }, 
+    "L_mentalis_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_mentalis_twk_03_ctrl"
+        ]
+    }, 
+    "R_mentalis_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_mentalis_twk_03_ctrl"
+        ]
+    }, 
+    "L_occipita_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_occipita_twk_03_ctrl"
+        ]
+    }, 
+    "R_occipita_twk_03_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_occipita_twk_03_ctrl"
+        ]
+    }, 
+    "L_cheek_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_cheek_twk_01_ctrl"
+        ]
+    }, 
+    "R_cheek_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_cheek_twk_01_ctrl"
+        ]
+    }, 
+    "L_cheek_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_cheek_twk_02_ctrl"
+        ]
+    }, 
+    "R_cheek_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_cheek_twk_02_ctrl"
+        ]
+    }, 
+    "L_lavator_labii_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_lavator_labii_twk_02_ctrl"
+        ]
+    }, 
+    "R_lavator_labii_twk_02_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_lavator_labii_twk_02_ctrl"
+        ]
+    }, 
+    "L_masseter_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_masseter_twk_01_ctrl"
+        ]
+    }, 
+    "R_masseter_twk_01_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_masseter_twk_01_ctrl"
+        ]
+    }, 
+    "L_pariental_twk_08_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_pariental_twk_08_ctrl"
+        ]
+    }, 
+    "R_pariental_twk_08_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_pariental_twk_08_ctrl"
+        ]
+    }
+}

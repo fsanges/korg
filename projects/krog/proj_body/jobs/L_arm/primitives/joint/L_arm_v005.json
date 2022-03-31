@@ -5,9 +5,9 @@
             "object_parent": "L_arm_jnt_grp", 
             "object_attrs": {}, 
             "translate": [
-                2.3444014170897027, 
-                19.121555321038215, 
-                -0.9640610508923845
+                2.3444013595581055, 
+                19.12155532836914, 
+                -0.9640610218048096
             ], 
             "rotate": [
                 0.0, 
@@ -28,11 +28,11 @@
             "rotate_order": "xyz", 
             "rotate_axis": [
                 0.0, 
-                -0.0, 
+                0.0, 
                 0.0
             ], 
             "inherits_transform": true, 
-            "radius": 0.5, 
+            "radius": 1.4403377356391152, 
             "degrees_of_freedom": [
                 true, 
                 true, 
@@ -49,9 +49,9 @@
                 0.0
             ], 
             "joint_orient": [
-                12.761409616808269, 
-                8.527019703663095, 
-                -47.73383452342935
+                4.227770669289443, 
+                10.334029448336803, 
+                -48.506071391409215
             ], 
             "segment_scale_compensate": true, 
             "enable_overrides": false, 
@@ -64,9 +64,9 @@
             "object_parent": "L_arm_jnt_grp", 
             "object_attrs": {}, 
             "translate": [
-                2.3444014170897027, 
-                19.121555321038215, 
-                -0.9640610508923845
+                2.3444013595581055, 
+                19.12155532836914, 
+                -0.9640610218048096
             ], 
             "rotate": [
                 0.0, 
@@ -87,11 +87,11 @@
             "rotate_order": "xyz", 
             "rotate_axis": [
                 0.0, 
-                -0.0, 
+                0.0, 
                 0.0
             ], 
             "inherits_transform": true, 
-            "radius": 0.5, 
+            "radius": 1.4403377356391152, 
             "degrees_of_freedom": [
                 true, 
                 true, 
@@ -108,9 +108,9 @@
                 0.0
             ], 
             "joint_orient": [
-                12.761409616808269, 
-                8.527019703663095, 
-                -47.73383452342935
+                4.227770669289443, 
+                10.334029448336803, 
+                -48.506071391409215
             ], 
             "segment_scale_compensate": true, 
             "enable_overrides": false, 
@@ -121,9 +121,9 @@
             "object_parent": "L_hand_01_jnt", 
             "object_attrs": {}, 
             "translate": [
-                1.523438511118802, 
-                -1.5987211554602254e-14, 
-                1.021405182655144e-14
+                1.6265521674738617, 
+                3.375077994860476e-14, 
+                -7.105427357601002e-15
             ], 
             "rotate": [
                 0.0, 
@@ -144,11 +144,11 @@
             "rotate_order": "xyz", 
             "rotate_axis": [
                 0.0, 
-                -0.0, 
+                0.0, 
                 0.0
             ], 
             "inherits_transform": true, 
-            "radius": 0.5, 
+            "radius": 0.7415067110479574, 
             "degrees_of_freedom": [
                 true, 
                 true, 
@@ -178,9 +178,9 @@
             "object_parent": "L_elbow_01_jnt", 
             "object_attrs": {}, 
             "translate": [
-                3.1464805404532994, 
-                -1.7763568394002505e-15, 
-                -2.220446049250313e-15
+                3.117970243228039, 
+                0.00026114681784505933, 
+                2.5551995496919666e-05
             ], 
             "rotate": [
                 0.0, 
@@ -201,11 +201,11 @@
             "rotate_order": "xyz", 
             "rotate_axis": [
                 0.0, 
-                -0.0, 
+                0.0, 
                 0.0
             ], 
             "inherits_transform": true, 
-            "radius": 0.5, 
+            "radius": 0.7415067110479574, 
             "degrees_of_freedom": [
                 true, 
                 true, 
@@ -223,7 +223,7 @@
             ], 
             "joint_orient": [
                 0.0, 
-                -0.0, 
+                0.0, 
                 0.0
             ], 
             "segment_scale_compensate": true, 
@@ -235,9 +235,9 @@
             "object_parent": "L_arm_01_jnt", 
             "object_attrs": {}, 
             "translate": [
-                4.02171743092231, 
-                -5.329070518200751e-15, 
-                2.6645352591003757e-15
+                4.021717767874927, 
+                -2.261211822229825e-07, 
+                2.6294326715969873e-09
             ], 
             "rotate": [
                 0.0, 
@@ -258,11 +258,11 @@
             "rotate_order": "xyz", 
             "rotate_axis": [
                 0.0, 
-                -0.0, 
+                0.0, 
                 0.0
             ], 
             "inherits_transform": true, 
-            "radius": 0.5, 
+            "radius": 1.3870881950341223, 
             "degrees_of_freedom": [
                 true, 
                 true, 
@@ -275,12 +275,12 @@
             ], 
             "preferred_angle": [
                 0.0, 
-                -41.90545073566705, 
+                -65.05175603497554, 
                 0.0
             ], 
             "joint_orient": [
                 0.0, 
-                -20.15832073588877, 
+                -24.009265676802567, 
                 0.0
             ], 
             "segment_scale_compensate": true, 

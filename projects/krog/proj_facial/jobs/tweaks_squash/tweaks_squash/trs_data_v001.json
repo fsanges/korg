@@ -1,0 +1,202 @@
+{
+    "C_nose_squash_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "C_nose_squash_ctrl"
+        ]
+    }, 
+    "L_eyelids_squash_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_eyelids_squash_ctrl"
+        ]
+    }, 
+    "R_eyelids_squash_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_eyelids_squash_ctrl"
+        ]
+    }, 
+    "C_lips_squash_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "C_lips_squash_ctrl"
+        ]
+    }, 
+    "L_ear_squash_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "L_ear_squash_ctrl"
+        ]
+    }, 
+    "R_ear_squash_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "R_ear_squash_ctrl"
+        ]
+    }, 
+    "C_top_teeth_squash_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "C_top_teeth_squash_ctrl"
+        ]
+    }, 
+    "C_bot_teeth_squash_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "C_bot_teeth_squash_ctrl"
+        ]
+    }, 
+    "C_head_squash_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "C_head_squash_ctrl"
+        ]
+    }, 
+    "C_top_head_squash_grp": {
+        "translation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "rotation": [
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "scale": [
+            1.0, 
+            1.0, 
+            1.0
+        ], 
+        "children": [
+            "C_top_head_squash_ctrl"
+        ]
+    }
+}
