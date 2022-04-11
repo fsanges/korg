@@ -1,0 +1,319 @@
+{
+    "project": {
+        "project_name": "proj_shapes", 
+        "groups": {
+            "name": "world", 
+            "items_list": [
+                {
+                    "job_name": "blend_shape", 
+                    "job_type": "blend_shape", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_shapes\\jobs\\blend_shape", 
+                    "job_order": 0, 
+                    "enabled_check": true, 
+                    "layout_check": true, 
+                    "build_check": true, 
+                    "cleanup_check": true, 
+                    "primitives": {
+                        "skeleton": null, 
+                        "ctrl_crvs": null, 
+                        "surfaces": null
+                    }, 
+                    "prefix_type": "lower", 
+                    "suffix_type": "lower", 
+                    "job_prefix": "blend_shape", 
+                    "recorded_attrs": [], 
+                    "renamer_type": "Renamer Types", 
+                    "folder_path": "K:\\projects\\korg\\projects\\krog\\proj_shapes\\jobs\\blend_shape\\blendShapes_v001", 
+                    "surfaces_path": ""
+                }, 
+                {
+                    "job_name": "shape_ctrl", 
+                    "job_type": "ctrl_blend_shape", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_shapes\\jobs\\shape_ctrl", 
+                    "job_order": 0, 
+                    "enabled_check": true, 
+                    "layout_check": true, 
+                    "build_check": true, 
+                    "cleanup_check": true, 
+                    "primitives": {
+                        "skeleton": null, 
+                        "ctrl_crvs": null, 
+                        "surfaces": null
+                    }, 
+                    "prefix_type": "lower", 
+                    "suffix_type": "lower", 
+                    "job_prefix": "ctrl_blend_shape", 
+                    "recorded_attrs": [], 
+                    "renamer_type": "Renamer Types", 
+                    "folder_path": "", 
+                    "blends_dict": {
+                        "R_sneer_ctrl": {
+                            "ty": {
+                                "R_nasolabialFurrow": 1.0
+                            }
+                        }, 
+                        "L_cheek_ctrl": {
+                            "tx": {
+                                "L_cheekPuff": 1.0
+                            }
+                        }, 
+                        "L_mouth_ctrl": {
+                            "tx": {
+                                "L_lipStretcher": 2.0
+                            }, 
+                            "ty": {
+                                "L_lipCornerDepressor": -2.0, 
+                                "L_lipCornerPuller": 2.0
+                            }
+                        }, 
+                        "R_cheek_ctrl": {
+                            "tx": {
+                                "R_cheekPuff": 1.0
+                            }
+                        }, 
+                        "R_brow_in_ctrl": {
+                            "tx": {
+                                "R_browLowerer": -1.0
+                            }
+                        }, 
+                        "L_sneer_ctrl": {
+                            "ty": {
+                                "L_nasolabialFurrow": 1.0
+                            }
+                        }, 
+                        "L_brow_in_ctrl": {
+                            "tx": {
+                                "L_browLowerer": -1.0
+                            }
+                        }, 
+                        "R_mouth_ctrl": {
+                            "tx": {
+                                "R_lipStretcher": 2.0
+                            }, 
+                            "ty": {
+                                "R_lipCornerDepressor": -2.0, 
+                                "R_lipCornerPuller": 2.0
+                            }
+                        }, 
+                        "L_brow_out_ctrl": {
+                            "ty": {
+                                "L_browRaiserOu": 2.0, 
+                                "L_browLowerer_browRaiserOu": -2.0
+                            }
+                        }, 
+                        "L_masseter_ctrl": {
+                            "tx": {
+                                "L_masseter": 1.0
+                            }
+                        }, 
+                        "C_mouth_ctrl": {
+                            "tx": {
+                                "mouthLeftRightN": -3.0, 
+                                "mouthLeftRight": 3.0
+                            }, 
+                            "ty": {
+                                "upperLipRaiser": 3.0
+                            }
+                        }, 
+                        "R_brow_out_ctrl": {
+                            "ty": {
+                                "R_browLowerer_browRaiserOu": -2.0, 
+                                "R_browRaiserOu": 2.0
+                            }
+                        }, 
+                        "R_masseter_ctrl": {
+                            "tx": {
+                                "R_masseter": 1.0
+                            }
+                        }
+                    }
+                }, 
+                {
+                    "job_name": "clean", 
+                    "job_type": "script", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_shapes\\jobs\\clean", 
+                    "job_order": 0, 
+                    "enabled_check": false, 
+                    "layout_check": true, 
+                    "build_check": true, 
+                    "cleanup_check": true, 
+                    "primitives": {
+                        "skeleton": null, 
+                        "ctrl_crvs": null, 
+                        "surfaces": null
+                    }, 
+                    "prefix_type": "lower", 
+                    "suffix_type": "lower", 
+                    "job_prefix": "script_test", 
+                    "recorded_attrs": [], 
+                    "renamer_type": "Renamer Types", 
+                    "layout_command_str": "", 
+                    "build_command_str": "", 
+                    "cleanup_command_str": "from maya import cmds as mc\n\nctrls_grps_list = [\"L_cheek_grp\", \"L_mouth_grp\", \"R_sneer_grp\", \"R_cheek_grp\",\n                   \"L_sneer_grp\", \"R_mouth_grp\", \"L_masseter_grp\", \"C_mouth_grp\",\n                   \"R_masseter_grp\", \"R_brow_in_grp\", \"L_brow_in_grp\", \"L_brow_out_grp\",\n                   \"R_brow_out_grp\"]\n\nmc.group(ctrls_grps_list, n=\"blend_shapes_ctrls_grp\")\n\nmc.rename(\"ctrls_grp\", \"bs_ctrls_grp\")\n\nmc.parent(\"blend_shapes_ctrls_grp\", \"bs_ctrls_grp\")\n"
+                }, 
+                {
+                    "job_name": "pinch", 
+                    "job_type": "script", 
+                    "job_folder": "K:/projects/korg/projects/krog/proj_shapes\\jobs\\pinch", 
+                    "job_order": 0, 
+                    "enabled_check": false, 
+                    "layout_check": true, 
+                    "build_check": true, 
+                    "cleanup_check": true, 
+                    "primitives": {
+                        "skeleton": null, 
+                        "ctrl_crvs": null, 
+                        "surfaces": null
+                    }, 
+                    "prefix_type": "lower", 
+                    "suffix_type": "lower", 
+                    "job_prefix": "script_test", 
+                    "recorded_attrs": [], 
+                    "renamer_type": "Renamer Types", 
+                    "layout_command_str": "", 
+                    "build_command_str": "", 
+                    "cleanup_command_str": "from maya import cmds as mc\n\nmc.addAttr(\"L_mouth_ctrl\", ln=\"pinch\", max=10, min=0, k=True)\n\nl_md = mc.createNode(\"multiplyDivide\", name=\"L_pinch_md\")\nmc.connectAttr(\"L_mouth_ctrl.pinch\", l_md+\".input1X\")\nmc.setAttr(l_md+\".input2X\", 10)\nmc.setAttr(l_md+\".operation\", 2)\nmc.connectAttr(l_md+\".outputX\", \"blend_shape_blnd.L_mouth_corner_pinch\", f=True)\n\n\nmc.addAttr(\"R_mouth_ctrl\", ln=\"pinch\", max=10, min=0, k=True)\n\nr_md = mc.createNode(\"multiplyDivide\", name=\"R_pinch_md\")\nmc.connectAttr(\"R_mouth_ctrl.pinch\", r_md+\".input1X\")\nmc.setAttr(r_md+\".input2X\", 10)\nmc.setAttr(r_md+\".operation\", 2)\nmc.connectAttr(r_md+\".outputX\", \"blend_shape_blnd.R_mouth_corner_pinch\", f=True)"
+                }
+            ], 
+            "layout_check": true, 
+            "build_check": true, 
+            "cleanup_check": true, 
+            "enabled_check": true, 
+            "is_expanded": false
+        }, 
+        "project_layout": true, 
+        "project_build": true, 
+        "project_cleanup": true, 
+        "extra_ctrls": [], 
+        "sfx": "lower", 
+        "pfx": "lower", 
+        "fps": "24fps", 
+        "saved_project_attributes": {}, 
+        "registry_dict": {}, 
+        "publish_type": "- None -", 
+        "renamer_type": "Renamer Types", 
+        "connections_dict": {}
+    }, 
+    "scene": {
+        "id": 2438023661496, 
+        "scene_width": 64000, 
+        "scene_height": 64000, 
+        "nodes": [
+            {
+                "id": 2434975328464, 
+                "node_title": "blend_shape", 
+                "pos_x": 313.0, 
+                "pos_y": 281.0, 
+                "inputs": [], 
+                "outputs": [], 
+                "content": {}
+            }, 
+            {
+                "id": 2434975327568, 
+                "node_title": "shape_ctrl", 
+                "pos_x": 313.0, 
+                "pos_y": 379.3333333333335, 
+                "inputs": [], 
+                "outputs": [], 
+                "content": {}
+            }
+        ], 
+        "edges": [], 
+        "view_center": {
+            "y": 425.0, 
+            "x": 403.33333333333337
+        }
+    }, 
+    "positions": [
+        {
+            "pos": [
+                313.0, 
+                281.0
+            ], 
+            "title": "blend_shape"
+        }, 
+        {
+            "pos": [
+                313.0, 
+                379.3333333333335
+            ], 
+            "title": "shape_ctrl"
+        }
+    ], 
+    "job_edges": [], 
+    "dict_editors_states": {
+        "shape_ctrl": [
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false, 
+            false
+        ]
+    }
+}

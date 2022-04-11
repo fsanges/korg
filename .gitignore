@@ -1,3 +1,8 @@
+# scenes
+korg\projects\krog\\proj_body\scenes
+korg\projects\krog\proj_facial\scenes
+korg\projects\krog\proj_shapes\scenes
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
