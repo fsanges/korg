@@ -7,7 +7,7 @@
                 {
                     "job_name": "blend_shape", 
                     "job_type": "blend_shape", 
-                    "job_folder": "K:/projects/korg/projects/krog/proj_shapes\\jobs\\blend_shape", 
+                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_shapes/jobs/blend_shape", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -23,13 +23,13 @@
                     "job_prefix": "blend_shape", 
                     "recorded_attrs": [], 
                     "renamer_type": "Renamer Types", 
-                    "folder_path": "K:\\projects\\korg\\projects\\krog\\proj_shapes\\jobs\\blend_shape\\blendShapes_v001", 
+                    "folder_path": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_shapes/jobs/blend_shape/blendShapes_v001", 
                     "surfaces_path": ""
                 }, 
                 {
                     "job_name": "shape_ctrl", 
                     "job_type": "ctrl_blend_shape", 
-                    "job_folder": "K:/projects/korg/projects/krog/proj_shapes\\jobs\\shape_ctrl", 
+                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_shapes/jobs/shape_ctrl", 
                     "job_order": 0, 
                     "enabled_check": true, 
                     "layout_check": true, 
@@ -131,7 +131,7 @@
                 {
                     "job_name": "clean", 
                     "job_type": "script", 
-                    "job_folder": "K:/projects/korg/projects/krog/proj_shapes\\jobs\\clean", 
+                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_shapes/jobs/clean", 
                     "job_order": 0, 
                     "enabled_check": false, 
                     "layout_check": true, 
@@ -154,7 +154,7 @@
                 {
                     "job_name": "pinch", 
                     "job_type": "script", 
-                    "job_folder": "K:/projects/korg/projects/krog/proj_shapes\\jobs\\pinch", 
+                    "job_folder": "/home/fssoares/Desktop/fss/korg/projects/krog/proj_shapes/jobs/pinch", 
                     "job_order": 0, 
                     "enabled_check": false, 
                     "layout_check": true, 
@@ -195,12 +195,12 @@
         "connections_dict": {}
     }, 
     "scene": {
-        "id": 2438023661496, 
+        "id": 140316187501200, 
         "scene_width": 64000, 
         "scene_height": 64000, 
         "nodes": [
             {
-                "id": 2434975328464, 
+                "id": 140320896190032, 
                 "node_title": "blend_shape", 
                 "pos_x": 313.0, 
                 "pos_y": 281.0, 
@@ -209,7 +209,7 @@
                 "content": {}
             }, 
             {
-                "id": 2434975327568, 
+                "id": 140320896191312, 
                 "node_title": "shape_ctrl", 
                 "pos_x": 313.0, 
                 "pos_y": 379.3333333333335, 
@@ -220,8 +220,8 @@
         ], 
         "edges": [], 
         "view_center": {
-            "y": 425.0, 
-            "x": 403.33333333333337
+            "y": 1.0, 
+            "x": 2.0
         }
     }, 
     "positions": [
